@@ -1,14 +1,14 @@
 # Análise de Dados do Censo Demográfico 2022
 
-## Objetivo
+**Objetivo**
 
 Este projeto tem como objetivo realizar uma análise exploratória dos dados do Censo Demográfico 2022, investigando a distribuição da população brasileira por gênero e faixa etária, além de analisar indicadores relacionados ao envelhecimento populacional.
 
-## Fonte dos Dados
+**Fonte dos Dados**
 
 Microdados do Censo Demográfico 2022 disponibilizados pelo IBGE.
 
-## Metodologia
+**Metodologia**
 
 As etapas desenvolvidas neste projeto incluem:
 
@@ -19,7 +19,7 @@ As etapas desenvolvidas neste projeto incluem:
 * Cálculo do Índice de Envelhecimento Populacional;
 * Análise da relação entre a proporção de idosos e a proporção de crianças por meio do coeficiente de correlação de Pearson.
 
-## Ferramentas Utilizadas
+**Ferramentas Utilizadas**
 
 * Python
 
@@ -28,7 +28,7 @@ As etapas desenvolvidas neste projeto incluem:
   * Matplotlib
   * Geopandas
 
-## Principais Análises
+**Principais Análises**
 
 * Distribuição da população por gênero;
 * Distribuição da população por faixas etárias;
@@ -38,9 +38,7 @@ As etapas desenvolvidas neste projeto incluem:
 * Gráficos de barras para comparação entre grupos populacionais;
 * Correlação entre percentual de idosos e percentual de crianças.
 
-## Resultados
-
-Os resultados permitem compreender aspectos da estrutura etária da população brasileira e identificar padrões associados ao processo de envelhecimento populacional, contribuindo para análises demográficas e formulação de políticas públicas.
+**Resultados**
 
 Os resultados indicaram:
 
